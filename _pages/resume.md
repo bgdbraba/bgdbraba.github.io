@@ -1,5 +1,6 @@
 ---
 permalink: /resume/
+title: What have I done so far
 header:
   overlay_color: "#333"
 ---

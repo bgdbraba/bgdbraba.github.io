@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: Whoami
+title: Who am I
 header:
   overlay_color: "#333"
 ---

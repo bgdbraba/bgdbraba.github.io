@@ -1,6 +1,7 @@
 ---
 permalink: /services/
-header:
+title: What can I offer you
+header: 
   overlay_color: "#333"
 ---
 Although OutOfMemory is currently a one-man team, following services can be offered to support your business.
