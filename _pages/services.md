@@ -1,8 +1,9 @@
 ---
 permalink: /services/
-title: "Services"
 ---
+Although OutOfMemory is currently a one-man team, following services can be offered to support your business.
 ## Long-term services 
+### IT Strategy 
 ### Solution Architecture 
 ### Software Architecture 
 ### Project Management
