@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Blog"
-    url: /posts/
+    url: /blog/
   - title: "Services"
     url: /services/  
   - title: "Track Record"
