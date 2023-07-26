@@ -8,4 +8,5 @@ header:
 ---
 Hereafter, you may find some of my point of views, some summaries or other potentially interesting posts. 
 
-Note that all of this represents my personal opinion only.
+Note that these blog posts represent my personal opinion only.
+{: .notice}
