@@ -7,7 +7,7 @@ header:
   # overlay_color: "#333"
 ---
 Although OutOfMemory is currently a one-man team, following services can be offered to support your business.
-## Long-term engagements 
+## Scaling your memory horizontally
 Long-term engagements refer to half-time or full-time role-based engagements to be extended on a yearly basis.
 
 Following roles can be fullfilled.
@@ -21,7 +21,7 @@ Note that different roles can potentially be combined in case the magnitude just
 
 Please refer to [Track Record](https://www.outofmemory.consulting/resume) for a description of the successful experience in the different roles at different clients.
 
-## Short-term engagements
+## Scaling your memory vertically
 ### IT Strategy Assessment
 This pertains a typical 3 to 6 months engagement ending with an IT strategy and (if wanted) a 3 to 5-year roadmap to guide your IT future, typically in the form of a slide deck.
 
