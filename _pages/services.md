@@ -6,11 +6,11 @@ header:
   overlay_filter: 0.5
   # overlay_color: "#333"
 ---
-Although OutOfMemory is currently a one-man team, following services can be offered to support your business.
-## Scaling your memory horizontally
-Long-term engagements refer to half-time or full-time role-based engagements to be extended on a yearly basis.
+Although OutOfMemory is currently a one-man team, following services are offered to to resolve your out-of-memory exceptions.
 
-Following roles can be fullfilled.
+## Services to expand your memory
+Long-term role-based engagements to be extended on a yearly basis.
+
 1. Solution Architect 
 2. IT Architect
 3. IT Project Manager
@@ -19,13 +19,14 @@ Following roles can be fullfilled.
 
 Note that different roles can potentially be combined in case the magnitude justifies that.
 
-Please refer to [Track Record](https://www.outofmemory.consulting/resume) for a description of the successful experience in the different roles at different clients.
+Refer to [Track Record](https://www.outofmemory.consulting/resume) for a description of the successful experience in the different roles at different clients.
 
-## Scaling your memory vertically
+## Services to temporarily expand your memory
+Short-term project-based engagements to achieve a specific goal.
 ### IT Strategy Assessment
 This pertains a typical 3 to 6 months engagement ending with an IT strategy and (if wanted) a 3 to 5-year roadmap to guide your IT future, typically in the form of a slide deck.
 
-Typical process:
+<!--Typical process:
 1. Knowledge gathering phase: 
     1. Read-through of the current business and IT strategy (if already existing).
     2. Performing interviews with all key stakeholders (jointly defined) on both business and IT side to identify the current IT challenges as well as the business dreams. 
@@ -43,6 +44,7 @@ Typical process:
     2. Executing the plan
 
 Additionally, the initiatives can be _timelined_ in a roadmap, and even _business cased_ to support forecasting.
+-->
 
 Note this type of assessment requires full sponsorship on executive level and needs to occur in co-creation mode to have a high chance on success.
 
@@ -52,7 +54,7 @@ This pertains a typical 1 to 3 months engagement to jointly find a solution for 
 ### Solution Architecture Assessment 
 This pertains a typical 3 to 6 months engagement to define an initial solution plan to support the delivery of a new major solution. 
 
-A typical solution plan contains:
+<!-- A typical solution plan contains:
 - the context, 
 - the requirements, 
 - the scope
@@ -65,9 +67,7 @@ It may also include (if requested)
 - a possible timeline 
 - staffing estimates 
 - staffing plan
+-->
 
-
-
-### Trainings
-### Workshops
-### Talks 
+## Service to upgrade your memory
+Talks, trainings and workshops. *To be completed soon*

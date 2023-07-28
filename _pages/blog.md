@@ -1,5 +1,5 @@
 ---
-title: "Some of my thoughts"
+title: "Some of my thoughts (*coming in future*)"
 layout: home
 permalink: /blog/
 author_profile: true
@@ -8,7 +8,3 @@ header:
   overlay_filter: 0.5
   # overlay_color: "#333"
 ---
-Hereafter, you may find some of my point of views, some summaries or other potentially interesting posts. 
-
-Note that these blog posts represent my personal opinion only.
-{: .notice}

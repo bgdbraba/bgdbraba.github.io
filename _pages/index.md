@@ -5,6 +5,9 @@ header:
   overlay_image: /assets/images/home.jpeg
   overlay_filter: 0.5
   # overlay_color: "#333"
+  actions:
+    - label: "Contact me"
+      url: "https://linkedin.com/in/bartel-de-brabandere/"
 ---
 After studying a bachelor in IT, a master in software engineering and 7 years at the [largest IT consulting firm of the world](https://www.accenture.com/be-en), the time felt right to start my own IT consulting company **OutOfMemory**.
 
